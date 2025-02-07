@@ -8,7 +8,7 @@
 [![LLM](https://img.shields.io/badge/LLM_Systems-Developing-FFD43B)](https://github.com/)
 [![NLP](https://img.shields.io/badge/NLP-Practitioner-8A2BE2)](https://github.com/)
 
-## 🚀 Core Projects
+## 🚀 Work experience
 
 ### ⚡ LLM Generation Optimization
 - Boosted model accuracy by 90% via constrained decoding techniques
