@@ -1,14 +1,15 @@
-# 👋 Hi, I'm Elisey Smirnov. Coding since 2018 👨‍💻
-**ML Engineer (NLP)** @ Innopolis University (GPA: 4.88)
+# Elisei Smirnov
 
-*Building intelligent systems at the intersection of NLP and production engineering*
+I build AI agents for financial services at Sber, previously at Yandex.
+
+Currently studying management at HSE Graduate School of Business. BSc in Computer Science and Engineering from Innopolis University, specialising in Data Science and Artificial Intelligence.
 
 [![Python](https://img.shields.io/badge/Python-Proficient-3776AB?logo=python)](https://github.com/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-Proficient-EE4C2C?logo=pytorch)](https://github.com/)
 [![LLM](https://img.shields.io/badge/LLM_Systems-Developing-FFD43B)](https://github.com/)
 [![NLP](https://img.shields.io/badge/NLP-Practitioner-8A2BE2)](https://github.com/)
 
-## 🚀 Work experience
+## Selected engineering projects
 
 ### ⚡ LLM Generation Optimization
 - Boosted model accuracy by 90% via constrained decoding techniques
@@ -57,8 +58,12 @@
 - **Optimization Enthusiast**: Experiment with quantization, speculative decoding
 
 ## 🎓 Education
-**BSc in Computer Science**  
-*Innopolis University* (Expected 2026)
+**Master’s degree, Management**  
+*HSE University, Graduate School of Business* (2026–2028, in progress)
+
+**BSc in Computer Science and Engineering**  
+*Innopolis University* (2022–2026)  
+Specialisation: Data Science and Artificial Intelligence. GPA: 4.88/5.
 
 **Certifications**  
 - Samsung IT School: Mobile Development (Java, Firebase)  
