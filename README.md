@@ -78,7 +78,7 @@ Specialisation: Data Science and Artificial Intelligence. GPA: 4.88/5.
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kezouke)](https://git.io/streak-stats)
 
-📫 Let's connect! [LinkedIn](https://www.linkedin.com/in/elisei-smirnov-ds/) | eliwhatthe@gmail.com
+📫 [LinkedIn](https://www.linkedin.com/in/elisei-smirnov-ds/) | [LeetCode](https://leetcode.com/u/kezouke/) | [Codewars](https://www.codewars.com/users/%20Effervescence) | eliwhatthe@gmail.com
 
 <!--
 **kezouke/kezouke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
